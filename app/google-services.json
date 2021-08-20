@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "887655113356",
+    "firebase_url": "https://my-duo-8197b-default-rtdb.firebaseio.com",
+    "project_id": "my-duo-8197b",
+    "storage_bucket": "my-duo-8197b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887655113356:android:7b6b4f8cbf4ff3846a51a9",
+        "android_client_info": {
+          "package_name": "com.layout.my_duo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887655113356-cdbq624eq58tbj8hl1pr00gfnunmcm38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGES-1LlNBA3L3BbAZvqDmfYxDKo5W_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887655113356-cdbq624eq58tbj8hl1pr00gfnunmcm38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
