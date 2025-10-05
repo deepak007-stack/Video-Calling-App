@@ -2,7 +2,7 @@ package com.layout.my_duo;
 
 public class User {
 
-    String name,email,password;
+    String name, email; // Do not store passwords in Firestore
 
     public User() {
 
@@ -25,13 +25,7 @@ public class User {
         this.email = email;
     }
 
-    public String getPassword() {
-        return password;
-    }
-
-    public void setPassword(String password) {
-        this.password = password;
-    }
+    // Intentionally no password field or accessors for security
 
 
 }
